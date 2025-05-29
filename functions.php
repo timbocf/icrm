@@ -292,7 +292,6 @@ class FpThemeFunctions {
 
 
 
-		if ($_GET['post'] == 64) // HOME PAGE
 
 		{
 
